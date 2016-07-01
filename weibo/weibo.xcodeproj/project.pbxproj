@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7A053A291D26414C001E0563 /* QHPModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A053A281D26414C001E0563 /* QHPModel.m */; };
+		7A053A2C1D264492001E0563 /* JHY.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A053A2B1D264492001E0563 /* JHY.m */; };
 		7AFBA16A1D2631D8007056EA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AFBA1691D2631D8007056EA /* main.m */; };
 		7AFBA16D1D2631D8007056EA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AFBA16C1D2631D8007056EA /* AppDelegate.m */; };
 		7AFBA1701D2631D8007056EA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AFBA16F1D2631D8007056EA /* ViewController.m */; };
@@ -38,6 +39,8 @@
 /* Begin PBXFileReference section */
 		7A053A271D26414C001E0563 /* QHPModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QHPModel.h; sourceTree = "<group>"; };
 		7A053A281D26414C001E0563 /* QHPModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QHPModel.m; sourceTree = "<group>"; };
+		7A053A2A1D264492001E0563 /* JHY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JHY.h; sourceTree = "<group>"; };
+		7A053A2B1D264492001E0563 /* JHY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JHY.m; sourceTree = "<group>"; };
 		7AFBA1651D2631D8007056EA /* weibo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = weibo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AFBA1691D2631D8007056EA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7AFBA16B1D2631D8007056EA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				7AFBA16F1D2631D8007056EA /* ViewController.m */,
 				7A053A271D26414C001E0563 /* QHPModel.h */,
 				7A053A281D26414C001E0563 /* QHPModel.m */,
+				7A053A2A1D264492001E0563 /* JHY.h */,
+				7A053A2B1D264492001E0563 /* JHY.m */,
 				7AFBA1711D2631D8007056EA /* Main.storyboard */,
 				7AFBA1741D2631D8007056EA /* Assets.xcassets */,
 				7AFBA1761D2631D8007056EA /* LaunchScreen.storyboard */,
@@ -276,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7AFBA1701D2631D8007056EA /* ViewController.m in Sources */,
+				7A053A2C1D264492001E0563 /* JHY.m in Sources */,
 				7AFBA16D1D2631D8007056EA /* AppDelegate.m in Sources */,
 				7AFBA16A1D2631D8007056EA /* main.m in Sources */,
 				7A053A291D26414C001E0563 /* QHPModel.m in Sources */,
